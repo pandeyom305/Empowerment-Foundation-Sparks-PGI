@@ -7,6 +7,7 @@ const DonationPage = () => {
         <>
         <ScrollToTop/>
             <Donation/>
+        boom
         </>
     )
 }
